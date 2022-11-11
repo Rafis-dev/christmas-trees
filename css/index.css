@@ -1052,8 +1052,8 @@ body {
 .b-tree__img img {
     right: 0;
     margin: auto;
-    height: 100%;
     max-height: 500px;
+    height: 100%;
     max-width: 100%
 }
 
